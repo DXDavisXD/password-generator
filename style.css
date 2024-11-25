@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    color: hsl(207, 100%, 50%);
+}
+#header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3em;
+    color: hsl(209, 100%, 33%);
+}
+#length{
+    text-align: center;
+    border-radius: 10px;
+    border-color: blue;
+    font-size: 1.2em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: hsl(103, 95%, 29%);
+}
+form{
+    font-weight: bold;
+    color: hsl(273, 96%, 45%);
+    text-align: justify, center;
+}
+#submit{
+    background-color: hsla(207, 100%, 50%, 0.562);
+    border-width: 2px;
+    border-color: hsl(240, 100%, 31%);
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    box-shadow: 20px;
+    cursor: pointer;
+}
+#submit:hover{
+    background-color: hsl(207, 100%, 50%);
+    transition: all 0.5s ease-in-out;
+}
+#Password{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: hsl(207, 100%, 30%);
+    font-size: 5em;
+    cursor: pointer;
+}
